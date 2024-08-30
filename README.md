@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krithika-04&label=Profile%20views&color=0e75b6&style=flat" alt="krithika-04" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Projects](https://github.com/krithika-04/Chat-Grove)
+- 🔭 I’m currently working on [Chat Grove](https://github.com/krithika-04/Chat-Grove)
 
 - 👯 I’m looking to collaborate on **Any Full Stack Projects**
 
